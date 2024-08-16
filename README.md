@@ -20,3 +20,10 @@ Recommended:
 * Linux Command Line
 * Plugging things into other things
 * Patience 
+
+# Install Instructions
+1. Install Raspberry Pi OS https://www.raspberrypi.com/software/
+2. Plug in Pi Camera 
+3. Download picamera_functions.py to a convenient location
+4. Run picamera_functions.py (you can use an IDE like Thonny or run it from the command line)
+5. Take pictures!
