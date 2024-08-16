@@ -1,5 +1,6 @@
 #!/usr/bin/python
 
+#Import modules
 from time import sleep
 from picamera import PiCamera
 from datetime import datetime
