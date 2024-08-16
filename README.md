@@ -13,10 +13,10 @@ Required:
 * Pi NoIR camera V2
 * Some kind of touchscreen (Software tested with Adafruit 3.5" 320x480 screen)
 
-Reccommended:
+Recommended:
 * WiFi Adapter for communication if your pi doesn't have one (good luck lmao)
 
-# Skills Reccommended:
+# Skills Recommended:
 * Linux Command Line
 * Plugging things into other things
 * Patience 
